@@ -7,6 +7,8 @@ SesameX is an AI-powered health support chatbot built using **Botpress**, design
 - Emergency services based on user location
 - Natural and empathetic AI conversations
 
+**Note:** SesameX is not a medical professional and does not replace professional healthcare. It provides guidance and refers users to medical services when necessary.
+
 ### Technologies Used
 - Botpress
 - Large Language Model (LLM integration)
